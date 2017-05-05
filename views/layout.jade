@@ -1,0 +1,18 @@
+doctype
+html
+  head
+    title #{title} - My Site
+    link(rel='stylesheet', href='/css/style.css')
+    script(type='text/javascript' src='/js/jquery.min.js')
+    include mocks/head.html
+    block extraHeader
+  body
+    header
+      h1 My Site
+    .container
+      .main-content
+        block content
+      .sidebar
+        block sidebar
+    footer
+      p Running on node with Express, Jade and Stylus

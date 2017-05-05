@@ -1,0 +1,28 @@
+{
+  "/":{
+    "es-ar":{
+      "opinion": {
+        "visible": true
+      },
+      "check-in": {
+        "visible": true
+      }
+    }
+  },
+  "/es-ar/aerolineasplus/acercade":{
+    "es-ar":{
+      "ar-plus-asociate": {
+        "visible": true
+      }
+    }
+  },
+  "/arg/main.asp?idSitio=AR&idPagina=50&idIdioma=es":{
+    "es-ar":{
+      "search": {
+        "visible": true
+      }
+    }
+  }
+}
+
+

@@ -1,0 +1,475 @@
+{
+	"es-ar":{
+				"search":{
+					"visible":true,
+					"label":"Vuelos",
+					"alt-link":"Vuelos",
+					"destination":"mocks/searchbox",
+				},
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-ar/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-ar/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"mocks/login-ar-plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+	},
+	"es-bo":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-bo/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-bo/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-bo/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-co":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-co/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-co/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-co/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-cl":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-cl/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-cl/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-cl/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-eu":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-eu/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-eu/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-eu/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-mx":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-mx/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-mx/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-mx/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-pa":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-pa/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-pa/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-pa/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"es-uy":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/es-uy/reservas_servicios/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Asociate",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/es-uy/aerolineasplus/acercade?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Mi Cuenta Plus",
+					"alt-link":"Ingresá a tu cuenta AR Plus",
+					"destination":"http://www.aerolineas.com.ar/es-uy/aerolineas_plus/mi_cuenta_plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"en-ar":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/en-ar/booking_and_services/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Enroll",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/en-ar/aerolineas_plus/about_aerolineas_plus?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"My Plus Account",
+					"alt-link":"My Plus Account",
+					"destination":"http://www.aerolineas.com.ar/en-ar/aerolineas_plus/my_plus_account",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"landingsbel":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"en-au":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/en-au/booking_and_services/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Enroll",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/en-au/aerolineas_plus/about_aerolineas_plus?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"My Plus Account",
+					"alt-link":"My Plus Account",
+					"destination":"http://www.aerolineas.com.ar/en-au/aerolineas_plus/my_plus_account",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"en-ar":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/en-ar/booking_and_services/web_checkin",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Enroll",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/en-ar/aerolineas_plus/about_aerolineas_plus?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"My Plus Account",
+					"alt-link":"My Plus Account",
+					"destination":"http://www.aerolineas.com.ar/en-ar/aerolineas_plus/my_plus_account",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+	"pt-br":{
+		"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"pt-br/reservas-e-servicos/web-check-in",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Cadastre-se Aqui",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/pt-br/aerolineas-plus/sobre-o-aerolineas-plus?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Minha Conta Plus",
+					"alt-link":"Minha Conta Plus",
+					"destination":"http://www.aerolineas.com.ar/pt-br/aerolineas-plus/minha-conta-plus",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+
+	},
+	"it-eu":{
+				"check-in":{
+					"visible":false,
+					"label":"Check In",
+					"alt-link":"Check-In",
+					"destination":"http://www.aerolineas.com.ar/it-eu/prenotazioni-e-servizi/web-check-in",
+				},
+				"ar-plus-asociate":{
+					"visible":false,
+					"label":"Associare qui",
+					"alt-link":"ARPlus",
+					"destination":"http://www.aerolineas.com.ar/it-eu/aerolineas-plus/incontra-aerolineas-plus?Inscripcion_Plus=si",
+				},
+				"ar-plus-login":{
+					"visible":false,
+					"label":"Il mio Conto Plus",
+					"alt-link":"Il mio Conto Plus",
+					"destination":"http://www.aerolineas.com.ar/it-eu/aerolineas-plus/il-mio-acconto-plus/",
+				},
+				"opinion":{
+					"visible":false,
+					"label":"Check In",
+					"destination":"",
+				},
+				"newsletter":{
+					"visible":false,
+					"label":"Newsletter",
+					"destination":"",
+				},
+				"chat":{
+					"visible":false,
+					"label":"Ayuda",
+					"destination":"",
+				}
+			
+	},
+}
